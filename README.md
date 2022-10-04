@@ -1,3 +1,3 @@
 # life is good
 realy
-deneme (attempt)
+deneme // (attempt)
